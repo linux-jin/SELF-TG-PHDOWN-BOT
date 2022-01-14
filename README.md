@@ -8,7 +8,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/linux_jin/SELF-TG-PHDOWN-BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/TG_PH_Downloader_bot)
 
 ### Credits:
 
